@@ -1,3 +1,5 @@
+var ReactDOM = require('react-dom');
+
 var listMixin = {
   getInitialState: function() {
     return {items: this.props.list || []};

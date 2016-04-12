@@ -25,6 +25,9 @@
   "bugs": {
     "url": "https://github.com/hulufei/react-sortable-mixin/issues"
   },
+  "peerDependencies": {
+    "react-dom": "^0.14.0"
+  },
   "devDependencies": {
     "karma-chai-plugins": "~0.2.3",
     "mocha": "~2.0.1",
